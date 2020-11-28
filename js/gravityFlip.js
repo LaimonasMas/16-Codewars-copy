@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/5f70c883e10f9e0001c89673
 */
 
-// SITA FUNKCIJA NEVEIKIA!!!
+// SITA FUNKCIJA kazkodel NEVEIKIA!!!
 // const flip=(d, a)=>{
 //     const sorted = a.sort((sk1, sk2) => sk1 - sk2);
 
